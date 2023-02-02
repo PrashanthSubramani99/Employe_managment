@@ -1,0 +1,7 @@
+Url: http://localhost/emp_management/auth/login.php
+
+1) Use Xampp localhost. Extract the files in htdocs.
+
+2) insert the database in phpmyadmin
+
+3) run the url in web.
